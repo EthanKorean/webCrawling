@@ -1,0 +1,8 @@
+{
+	"name" : "네이버",
+	"url" : "https://news.naver.com",
+	"catPath":["div#lnb","ul","li","a","span"],
+	"subCatPath" :["div#snb","ul","li","a"],
+	"itemPath" : ["div#main_content", "div.list_body","ul","li","dl","dt","a"],
+	"curPagePath" : ["div.paging", "strong"]
+}
